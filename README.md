@@ -13,3 +13,6 @@ circlet question 4
 
 circlet question 5
 ![Screenshot (14)](https://github.com/krimisha-bhanderi/circlet/assets/131655711/5749832f-1055-4fea-877d-ce1360e0cb28)
+
+circlet question 7
+![Screenshot (15)](https://github.com/krimisha-bhanderi/circlet/assets/131655711/1d5025d8-09b4-4431-9fab-949e353c0e35)
